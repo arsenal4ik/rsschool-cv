@@ -1,7 +1,32 @@
-.body {
-    background: rgb(rgb(20, 20, 201);
-    height: 1024px;
-    width: 1024px;
-    
+body {
+    text-align: center;
+    vertical-align: sub;
+    font-family: 'Times New Roman', monospace;
+    color: #000000;
+    max-width:1024px ;
 }
-
+  .skills {
+      text-align: center; 
+      padding: 15px;
+      margin-bottom: 15px;
+  }
+  .code {
+    width: 900px;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .experience {
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  ul {
+      padding: 0;
+      margin-left: 450px
+  }
+  li {
+    padding: 0;
+    margin-right: 350px;
+    text-align: left;
+  }
+  
